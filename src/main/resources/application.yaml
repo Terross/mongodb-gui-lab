@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      url: mongodb://localhost:27017/
+server:
+  port: 8070
